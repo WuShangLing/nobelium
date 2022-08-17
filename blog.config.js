@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'My Blog',
+  title: 'ONE-PIECE',
   author: 'Caramel',
   email: 'caramel@88.com',
   link: 'https://blog.one-piece.eu.org',
-  description: 'This is a simple blog.',
+  description: "Welcome to ONE-PIECE!This is Caramel's blog,share Caramel with you.",
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
