@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Caramel',
   email: 'caramel@88.com',
   link: 'https://blog.one-piece.eu.org',
-  description: "Welcome to ONE-PIECE!This is Caramel's blog,share Caramel with you.",
+  description: "Welcome to ONE-PIECE!This is Caramel's blog,share knowledge with you.",
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
